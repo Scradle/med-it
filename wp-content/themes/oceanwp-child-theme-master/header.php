@@ -95,7 +95,7 @@ $('.popup-close').click(function(){
 /**
  * Shortcode pour ajouter un bouton
  */
-function contact_btn() {
+function sc_contact_btn() {
 
 	// Code du bouton
 	$string = '<a href="/contact" class="contact-btn">Nous contacter</a>';
@@ -105,6 +105,6 @@ function contact_btn() {
 
 }
 // On publie le shortcode
-add_shortcode('contact', 'contact_btn');
+add_shortcode('contact', 'sc_contact_btn');
 
 ?>
