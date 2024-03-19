@@ -1,0 +1,5 @@
+[19-Mar-2024 08:27:03 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée in C:\Users\Scradle\Local Sites\med-it\app\public\wp-includes\class-wpdb.php on line 1987
+[19-Mar-2024 08:28:03 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Users\Scradle\Local Sites\med-it\app\public\wp-includes\functions.php on line 7241
+[19-Mar-2024 08:28:03 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\Users\Scradle\Local Sites\med-it\app\public\wp-includes\functions.php on line 2187
+[19-Mar-2024 08:28:06 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\Users\Scradle\Local Sites\med-it\app\public\wp-includes\functions.php on line 7241
+[19-Mar-2024 08:28:06 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\Users\Scradle\Local Sites\med-it\app\public\wp-includes\functions.php on line 2187
