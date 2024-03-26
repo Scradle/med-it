@@ -11,12 +11,16 @@ Version: 1.0
 /* Parent stylesheet should be loaded from functions.php not using @import */
 
 
+
 .contact-btn{
-    display:inline-block;
+    display:unset !important;
     background-color:white;
-    padding:6px 16px;
+    padding: 14px 16px !important;
     border-radius:6px;
-    transform: translateY(22px);
+    color: black !important;
+}
+.contact-btn:hover{
+    color:#0693e3 !important;
 }
 .popup-overlay{
     position:fixed;
